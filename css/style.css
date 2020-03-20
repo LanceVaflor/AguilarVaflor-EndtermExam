@@ -15,6 +15,7 @@
     border: 3px solid;
     text-align:center;
     width: 3px;
+    position: center;
 }
 .footer {
     border: 1px;
