@@ -1,11 +1,12 @@
 .main_body {
     height: auto;
     text-align: center;
+    background-color: white;
 }
 
 
 .header {
-    background-color: ;
+    background-color:#33373d ;
     height: 5%;
     width: auto;
 }
